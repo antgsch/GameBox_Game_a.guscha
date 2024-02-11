@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyBullet
+  - Jar
+  - Coin
+  - Enemy
+  - Rune
+  - Enemys_Stopper
+  - Recovery_HP
+  - Recovery_Mana
+  - Ladder
+  - Bborder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1109299487
+    locked: 0
+  - name: objects
+    uniqueID: 963890173
+    locked: 0
+  - name: platform_1(w.collider)
+    uniqueID: 2957858661
+    locked: 0
+  - name: bullet
+    uniqueID: 879251967
+    locked: 0
+  - name: Trophy
+    uniqueID: 4060780035
+    locked: 0
+  - name: ' jar'
+    uniqueID: 123340073
+    locked: 0
+  - name: Enemys
+    uniqueID: 4079057093
+    locked: 0
+  - name: Player
+    uniqueID: 767865695
+    locked: 0
